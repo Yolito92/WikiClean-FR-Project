@@ -2,7 +2,7 @@
 # 🇫🇷 Zeronex – Wikipedia FR Clean Dataset (Extrait )
 ### Démonstration de nettoyage, normalisation et structuration d’un corpus massif
 
-Ce dépôt contient **un extrait représentatif (~10%)** du travail réalisé sur le dump complet de Wikipédia FR.  
+Ce dépôt contient **un extrait représentatif (~0.0001)** du travail réalisé sur le dump complet de Wikipédia FR.  
 Cet extrait a pour but de **montrer la qualité du nettoyage**, la cohérence du format final et l’exploitabilité immédiate pour les applications IA (NLP, RAG, embeddings, graph databases…).
 
 Le dataset complet comprend **2,7 millions d’articles**, mais seule une fraction est publiée ici.
