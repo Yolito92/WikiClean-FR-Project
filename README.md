@@ -1,5 +1,5 @@
 
-# 🇫🇷 Zeronex – Wikipedia FR Clean Dataset (Extrait 10%)
+# 🇫🇷 Zeronex – Wikipedia FR Clean Dataset (Extrait )
 ### Démonstration de nettoyage, normalisation et structuration d’un corpus massif
 
 Ce dépôt contient **un extrait représentatif (~10%)** du travail réalisé sur le dump complet de Wikipédia FR.  
